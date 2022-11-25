@@ -1,4 +1,4 @@
-### Raul Amaro - [Data Analyst - Business Intelligence Enthusiast]
+### Raul Amaro - [Business Intelligence Developer]
 
 ## I am an economist who loves leveraging data-driven solutions that make an impact on business and society!
 
