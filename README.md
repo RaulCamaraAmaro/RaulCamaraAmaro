@@ -2,7 +2,7 @@
 
 ## I am an economist who loves leveraging data-driven solutions that make an impact on business and society!
 
-- 💻 I’m a Data Analyst
+- 💻 I’m a Data Driven professional and pasionate by Business Intelligence
 - 📈 I’m always learning new skills. Learning never ends!
 - 📊 I’m looking to collaborate with other Data Analyst and Business Intelligence developers 
 
